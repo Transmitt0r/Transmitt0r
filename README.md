@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lukas
 
 <!--
 **Transmitt0r/Transmitt0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on 3D Printing, electronics in my spare time and automotive interfaces professionally
+- 🌱 I’m currently learning micropython and tensorflow-lite
+- 💬 Ask me about electrical engineering and all things bus-system related
+- 📫 How to reach me: Shoot me a dm on twitter @lukas_grotz
