@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning micropython and tensorflow-lite
 - 💬 Ask me about electrical engineering and all things bus-system related
 - 📫 How to reach me: Shoot me a dm on twitter @lukas_grotz
+
+#### Visit my [personal blog 📫](https://grotz.io) 
