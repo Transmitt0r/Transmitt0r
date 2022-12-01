@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 3D Printing, electronics in my spare time and automotive interfaces professionally
-- 🌱 I’m currently learning micropython and tensorflow-lite
-- 💬 Ask me about electrical engineering and all things bus-system related
+- 🔭 Cloud engineer by day, 3D printing and electronics nerd by night
+- 🌱 I'm trying to get a better understanding of the inner working of [k8s](https://https://github.com/kubernetes/kubernetes)
+- 💬 Ask me about containerizing applications and all things cloud related (or if you need help with some electrical engineering, that's what I learned after all)
 - 📫 How to reach me: Shoot me a dm on twitter @lukas_grotz
 
 #### Visit my [personal blog 📫](https://hello.grotz.io) 
